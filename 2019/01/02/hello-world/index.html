@@ -716,6 +716,8 @@
     
       <script type="text/x-mathjax-config">
   
+    MathJax.Ajax.config.path['mhchem'] = '//cdnjs.cloudflare.com/ajax/libs/mathjax-mhchem/3.3.0';
+  
 
   MathJax.Hub.Config({
     tex2jax: {
@@ -724,6 +726,8 @@
       skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
     },
     TeX: {
+      
+        extensions: ['[mhchem]/mhchem.js'],
       
       equationNumbers: {
         autoNumber: "AMS"
@@ -740,7 +744,7 @@
       }
   });
 </script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/mathjax-mhchem/3.3.0"></script>
+<script src="//cdn.jsdelivr.net/npm/mathjax@2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 <style>
 .MathJax_Display {
