@@ -2,22 +2,22 @@
 <search>
   <entry>
     <title><![CDATA[碳酸氢钠能与氯化钙溶液反应吗？]]></title>
-    <url>%2F%E7%A2%B3%E9%85%B8%E6%B0%A2%E9%92%A0%E8%83%BD%E4%B8%8E%E6%B0%AF%E5%8C%96%E9%92%99%E6%BA%B6%E6%B6%B2%E5%8F%8D%E5%BA%94%E5%90%97%EF%BC%9F%2F</url>
+    <url>%2Fchemistry%2F709d8477%2F</url>
     <content type="text"><![CDATA[\(\ce{NaHCO3}\)能与\(\ce{CaCl2}\)溶液反应吗？ 很多同学认为，由于\(\ce{Ca(HCO3)2}\)可溶，所以\(\ce{NaHCO3}\)与\(\ce{CaCl2}\)不能发生复分解反应，但事实的确如此吗？答案是否定的，在实验中，若反应物浓度不太低的情况下，可以很明显地观察到有沉淀生成。 我们不妨来思考几个问题，首先，沉淀是什么？ \(\ce{Ca(HCO3)2}\)的溶解度较大，而\(\ce{CaCO3}\)难溶，不难得出结论，沉淀是\(\ce{CaCO3}\)。 那么，为什么能够产生\(\ce{CaCO3}\)沉淀呢？ 通过选四化学反应原理的学习我们知道，溶液中要产生沉淀，\(Q_c\)需大于该温度下的\(K_{sp}\) ，也就是说得符合\[[\ce{Ca^2+}][\ce{CO_3^2-}]&gt;K_{sp}[\ce{CaCO3}]\] 那么\(\ce{NaHCO3}\)溶液中是否有\(\ce{CO3^2-}\)离子呢？我们知道\(\ce{HCO3-}\)可以发生电离\[\ce{HCO3^- &lt;=&gt; H+ + CO3^2- }\] ,溶液中是存在\(\ce{CO3^2-}\)离子的，如过\([\ce{Ca^2+}][\ce{CO_3^2-}]&gt;K_{sp}[\ce{CaCO3}]\) ，那么就可以产生沉淀，通过计算我们可以验证这个实验结果，在反应物浓度不太稀的情况下是可以观察到明显的沉淀的。 该反应为：\[\ce{Ca^2+ + 2HCO3^- -&gt; H2CO3 + CaCO3 }\] 未完待续，我去睡觉了，88]]></content>
   </entry>
   <entry>
     <title><![CDATA[11]]></title>
-    <url>%2F11%2F</url>
+    <url>%2Fchemistry%2Fd65a1577%2F</url>
     <content type="text"><![CDATA[]]></content>
   </entry>
   <entry>
     <title><![CDATA[test]]></title>
-    <url>%2Ftest%2F</url>
+    <url>%2Fchemistry%2Fd87f7e0c%2F</url>
     <content type="text"><![CDATA[\(\ce{CO2 + C -&gt; 2 CO}\) \[ e^{ix}=\cos x + i\sin x \] \(\ce{Hg^2+ -&gt;[I-] HgI2 -&gt;[I-] [Hg^{II}I4]^2-}\) More info: Deployment $ $ 这是一个脚注的例子1，第二个脚注的例子2 脚注结束的地方，不缩进就可以了 \(\ce{A（浓） -&gt;[{我是}][{t牛逼}] B( 我是)}\) The characteristic polynomial \(\chi(\lambda)\) of the \(3 \times 3\) matrix \[ \left( \begin{array}{ccc} a &amp; b &amp; c \\ d &amp; e &amp; f \\ g &amp; h &amp; i \end{array} \right) \] is given by the formula \[ \chi(\lambda) = \left| \begin{array}{ccc} \lambda - a &amp; -b &amp; -c \\ -d &amp; \lambda - e &amp; -f \\ -g &amp; -h &amp; \lambda - i \end{array} \right|. \] 脚注的内容，这个内容不必要在文章最后，只要不包含在其他的块级元素中就可以了↩ 脚注的内容，更多内容更多内容更多内容 第二行以后的脚注内容需要缩进 更多内容更多内容更多内容 更多内容更多内容↩]]></content>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
-    <url>%2Fhello-world%2F</url>
+    <url>%2Fchemistry%2F4a17b156%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick Start Create a new post 1$ hexo new "My New Post" More info: Writing Run server 1$ hexo server More info: Server Generate static files 1$ hexo generate More info: Generating Deploy to remote sites 1$ hexo deploy \(\ce{CO2 + C -&gt; 2 CO}\) \[ e^{ix}=\cos x + i\sin x \] \(\ce{Hg^2+ -&gt;[I-] HgI2 -&gt;[I-] [Hg^{II}I4]^2-}\) More info: Deployment \(\ce{x Na(NH4)HPO4 -&gt;[\Delta] (NaPO3)_x + x NH3 ^ + x H2O}\)]]></content>
   </entry>
 </search>
